@@ -12,6 +12,6 @@ Suite of codes codes for a solving the EPDiff equation in two spatial dimensions
 
 ![Cartoon](notes_clickable.png)
 
-
+[![Cartoon](notes_clickable.png)](https://github.com/onaraighl/EPDIFF/blob/main/notes1.pdf)
 
 
